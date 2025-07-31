@@ -1,0 +1,7 @@
+i need to make a practical on docker
+such that first we create a linux container and then create an development environment in the linux container, then install java and git in the linux env, then create a multi function calculator program in java and then run the program in the linux env
+
+we need to do it three ways one be the windows cmd using docker commands (both methods direct command calling and second creating docker file as well), other is docker gui and third is the docker terminal using docker commands
+
+create a maven project both frontend and backend use initializr to create the app, make the project for a todo list where the user will add the name, age and marks and there will be a json from which it will compare and give the todo list for the user
+also all the data that is printed in the todo list will be stored in another json 
