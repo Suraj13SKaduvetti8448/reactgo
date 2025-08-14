@@ -1,0 +1,5 @@
+{
+  "under18": ["Study", "Play a game"],
+  "18to30": ["Work out", "Learn something new"],
+  "over30": ["Read a book", "Relax and meditate"]
+}

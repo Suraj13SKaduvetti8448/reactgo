@@ -1,0 +1,2 @@
+create a todo list application using next such that the user will enter name and age and the app will suggest what to do accordingly and then display the todo below and also store the data with timestamp and suppose when the app refreshed and when user enters the same name previous data is also displayed do this in step by step manner and help me develop it store the data in json
+there is a use of src/app directory so do accordingly and also mention the files names for the code
