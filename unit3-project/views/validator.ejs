@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head><title>Validator Example</title></head>
+<body>
+  <h2>Express Validator Example</h2>
+  <form action="/validator/submit" method="post">
+    <p>Email: <input type="text" name="email" /></p>
+    <p>Name: <input type="text" name="name" /></p>
+    <p>Mobile: <input type="text" name="mobile" /></p>
+    <p>Password: <input type="password" name="password" /></p>
+    <button type="submit">Submit</button>
+  </form>
+
+  <% if (errors && errors.length > 0) { %>
+    <h3>Validation Errors:</h3>
+    <ul>
+      <% errors.forEach(function(err){ %>
+        <li><%= err.msg %></li>
+      <% }); %>
+    </ul>
+  <% } else if (errors && errors.length === 0) { %>
+    <h3>✅ Successfully validated!</h3>
+  <% } %>
+
+  <a href="/">Back</a>
+</body>
+</html>
