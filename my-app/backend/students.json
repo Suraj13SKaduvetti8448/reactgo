@@ -1,0 +1,42 @@
+[
+  {
+    "name": "ABCD",
+    "age": "50",
+    "course": "PHD"
+  },
+  {
+    "name": "Lucky",
+    "age": "22",
+    "course": "MSCCS"
+  },
+  {
+    "name": "ABCD",
+    "age": "50",
+    "course": "PHD"
+  },
+  {
+    "name": "Lucky",
+    "age": "22",
+    "course": "MSCCS"
+  },
+  {
+    "name": "XYZ",
+    "age": "10",
+    "course": "SSC"
+  },
+  {
+    "name": "ABCD",
+    "age": "50",
+    "course": "PHD"
+  },
+  {
+    "name": "ABCD",
+    "age": "100",
+    "course": "PHD"
+  },
+  {
+    "name": "ABCD",
+    "age": "15",
+    "course": "PHD"
+  }
+]

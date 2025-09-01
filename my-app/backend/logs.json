@@ -1,0 +1,136 @@
+[
+  {
+    "method": "POST",
+    "url": "/api/students",
+    "timestamp": "2025-09-01T10:29:01.197Z",
+    "body": {
+      "name": "ABCD",
+      "age": "50",
+      "course": "PHD"
+    }
+  },
+  {
+    "method": "POST",
+    "url": "/api/students",
+    "timestamp": "2025-09-01T10:29:13.533Z",
+    "body": {
+      "name": "Lucky",
+      "age": "22",
+      "course": "MSCCS"
+    }
+  },
+  {
+    "method": "POST",
+    "url": "/api/students",
+    "timestamp": "2025-09-01T10:29:23.735Z",
+    "body": {
+      "name": "XYZ",
+      "age": "10",
+      "course": "SSC"
+    }
+  },
+  {
+    "method": "GET",
+    "url": "/api/students",
+    "timestamp": "2025-09-01T10:29:24.650Z",
+    "body": null
+  },
+  {
+    "method": "GET",
+    "url": "/api/logs",
+    "timestamp": "2025-09-01T10:29:28.080Z",
+    "body": null
+  },
+  {
+    "method": "POST",
+    "url": "/api/students",
+    "timestamp": "2025-09-01T10:31:55.282Z",
+    "body": {
+      "name": "ABCD",
+      "age": "50",
+      "course": "PHD"
+    }
+  },
+  {
+    "method": "GET",
+    "url": "/api/students",
+    "timestamp": "2025-09-01T10:31:57.243Z",
+    "body": null
+  },
+  {
+    "method": "GET",
+    "url": "/api/students",
+    "timestamp": "2025-09-01T10:32:17.201Z",
+    "body": null
+  },
+  {
+    "method": "POST",
+    "url": "/api/students",
+    "timestamp": "2025-09-01T10:32:19.888Z",
+    "body": {
+      "name": "ABCD",
+      "age": "50",
+      "course": "PHD"
+    }
+  },
+  {
+    "method": "POST",
+    "url": "/api/students",
+    "timestamp": "2025-09-01T10:32:27.231Z",
+    "body": {
+      "name": "ABCD",
+      "age": "100",
+      "course": "PHD"
+    }
+  },
+  {
+    "method": "GET",
+    "url": "/api/students",
+    "timestamp": "2025-09-01T10:32:28.464Z",
+    "body": null
+  },
+  {
+    "method": "POST",
+    "url": "/api/students",
+    "timestamp": "2025-09-01T10:34:23.377Z",
+    "body": {
+      "name": "ABCD",
+      "age": "15",
+      "course": "PHD"
+    }
+  },
+  {
+    "method": "GET",
+    "url": "/api/students",
+    "timestamp": "2025-09-01T10:34:25.592Z",
+    "body": null
+  },
+  {
+    "method": "POST",
+    "url": "/api/students",
+    "timestamp": "2025-09-01T10:34:32.984Z",
+    "body": {
+      "name": "ABCD",
+      "age": "15",
+      "course": "PHD"
+    }
+  },
+  {
+    "method": "GET",
+    "url": "/api/logs",
+    "timestamp": "2025-09-01T10:34:37.924Z",
+    "body": null
+  },
+  {
+    "method": "GET",
+    "url": "/api/students",
+    "timestamp": "2025-09-01T10:34:47.143Z",
+    "body": null
+  },
+  {
+    "method": "GET",
+    "url": "/api/logs",
+    "timestamp": "2025-09-01T10:34:48.240Z",
+    "body": null
+  }
+]
