@@ -1,0 +1,8 @@
+.Container{
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    text-align: center;
+    background-color: aquamarine;
+    box-shadow: 1px 2px 2px 1px rgba(20, 50, 210, 0.3);
+}
